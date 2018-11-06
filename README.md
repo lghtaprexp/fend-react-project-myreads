@@ -101,7 +101,7 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 A book management app built with React. The main page shows three different shelves. One for `Current Reads`, `Want to Read`, and another for `Read` books. Books can be moved to one of the three shelves by clicking the green button on the bottom right of each book. Select none to remove selected book from a shelf. Click the green plus button at the bottom right corner to search for a book to add to a shelf by `Author` or `Title`.
 
 ## Resources
-https://www.npmjs.com/package/react-router
-https://reacttraining.com/react-router/web/guides/quick-start
-https://youtu.be/acJHkd6K5kI
-https://youtu.be/MUVMTVd9Gzg
+1. https://www.npmjs.com/package/react-router
+2. https://reacttraining.com/react-router/web/guides/quick-start
+3. https://youtu.be/acJHkd6K5kI
+4. https://youtu.be/MUVMTVd9Gzg
